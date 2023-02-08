@@ -1,0 +1,24 @@
+.home-container {
+    padding: 40px;
+}
+
+.home-info {
+    font-family: 'Roboto';
+    font-size: 48px;
+}
+
+.home-info h1 {
+    letter-spacing: 0.02em;
+
+}
+
+.home-info p {
+    font-size: 24px;
+    color: #7E7E7E;
+    font-weight: bold
+}
+
+.start-button {
+    background-color: #1890FF;
+    color: #ffffff;
+}
